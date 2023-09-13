@@ -1,7 +1,7 @@
 # EmployeeReviewMonitoringSystem
 
 Back-end project done using Java with JSP and MySQL for the data base.
-For the front-end part i've used HTML and CSS
+For the front-end part I've used HTML and CSS
 
 Description of the app:
   * The purpose of this app was to familiarise with the main operations done on a data base (CRUD), as well as the associations between data bases.
